@@ -28,5 +28,5 @@ function App() {
 export default App;
 
 
-// Paused at 1 hr mark
+// Paused at 1:21:15  mark
 //https://www.youtube.com/watch?v=ScDWrogElmo&list=WL&index=2&t=0s

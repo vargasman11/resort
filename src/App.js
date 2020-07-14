@@ -13,7 +13,7 @@ import Navbar from './components/Navbar'
 function App() {
   return ( 
   <>
-  <Navbar></Navbar>
+  <Navbar />
   <Switch>
     <Route exact path="/" component={Home} />
     <Route exact path="/rooms" component={Rooms} />
@@ -28,5 +28,5 @@ function App() {
 export default App;
 
 
-// Paused at 1:21:15  mark
+// Paused at 1:26:15  mark
 //https://www.youtube.com/watch?v=ScDWrogElmo&list=WL&index=2&t=0s
